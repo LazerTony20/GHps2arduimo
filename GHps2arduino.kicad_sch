@@ -1328,6 +1328,16 @@
 		)
 		(uuid "8a35e6e2-001b-414b-b64c-c10859a907cf")
 	)
+	(text "Still Missing the ball switch to activate the star power or an accelerometer"
+		(exclude_from_sim no)
+		(at 215.392 120.142 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "9a19f248-fc5e-4c1b-9bfe-8ef47cc1c926")
+	)
 	(junction
 		(at 55.88 187.96)
 		(diameter 0)
