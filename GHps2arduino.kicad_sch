@@ -5144,6 +5144,15 @@
 				(hide yes)
 			)
 		)
+		(property "Credits" "https://github.com/g200kg/kicad-lib-arduino"
+			(at 184.15 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a805fcb8-53cf-4b41-9ad1-e087eea9ab6d")
 		)
